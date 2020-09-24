@@ -156,6 +156,7 @@ Windows 10 OS [1709](https://docs.microsoft.com/windows/release-information/stat
 ### Is configuring tamper protection in Intune supported on servers?
 
 No
+Yes - if you use MECM Tenant Attach - you can now enable Tamper protection from MEM to Servers.
 
 ### Will tamper protection have any impact on third party antivirus registration?
 
